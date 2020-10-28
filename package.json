@@ -1,0 +1,23 @@
+{
+  "name": "micro-monitor",
+  "version": "1.0.0",
+  "description": "An NPM package for process monitoring in microservices systems",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itayankri/micro-monitor.git"
+  },
+  "author": "Itay Ankri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itayankri/micro-monitor/issues"
+  },
+  "homepage": "https://github.com/itayankri/micro-monitor#readme",
+  "dependencies": {
+    "uuid": "^8.3.1"
+  }
+}
